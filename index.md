@@ -6,11 +6,11 @@ title: Index
 # Research Seminar in Computational Linguistics
 ---------------------------------
 
-Winter Semester 2016/17  
-[Prof. Dr. Alexander Koller](http://www.coli.uni-saarland.de/~koller/)  
-Tue 12-14; Meeting Room 2.11
+Summer Semester 2017<br/>
+[Prof. Dr. Alexander Koller](http://www.coli.uni-saarland.de/~koller/)<br/>
+Wed 15-17; Meeting Room 2.11
 
-**Start: Tuesday, November 8**
+**Start: Wednesday, April 19**
 
 ---
 
@@ -38,7 +38,8 @@ on three successive meetings (see above) and otherwise participate
 actively. In the end, you will write a seminar paper summarizing and
 working out some topics that we covered in the discussions.
 
-If you would like to participate, please get in touch with me by
-email before the first meeting.
+**Important:** 
+If you would like to participate, please **get in touch with me by
+email** before the first meeting.
 
 
